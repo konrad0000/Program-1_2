@@ -1,5 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    int liczba = 100;
+    System.out.println("Twoja liczba to : " + liczba);
   }
 }
